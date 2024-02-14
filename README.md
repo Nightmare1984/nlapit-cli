@@ -6,7 +6,7 @@ This repository contains all the source code for XeroCLI, and all the scripts th
 
 ![XLAPiT](https://i.imgur.com/JuWceYE.png)
 
-### CURL command
+### How to get it
 
 First off let me say that everything this awesome toolkit provides is and will forever be optional and up to you the user. I will never force anything on you.
 
