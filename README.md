@@ -18,7 +18,7 @@ bash -c "$(curl -fsSL https://get.xerolinux.xyz/)"
 ```
 ![](https://i.imgur.com/ZnxxpW2.png)
 
-### Need to know
+### Things to note
 
 It's crucial to clarify that this toolkit isn't intended for custom Arch-Based distros. While some elements might function, I can't ensure seamless compatibility due to potential conflicts arising from differing tweaks and repositories. To ensure optimal performance, it's strongly recommended for use on a clean Pure-Arch install executed through the **ArchInstall** script.
 
